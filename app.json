@@ -9,27 +9,27 @@
     ],
     "repository": "https://github.com/vasusen-code/SaveRestrictedContentBot",
     "website": "",
-    "success_url": "https://t.me/DroneBots",
+    "success_url": "https://t.me/RR_BOTS_UPDATES",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": "40a5e4e67bf652eb67cea2f4e01dcb88"
+            "value": "9c29b322bc3fee75238b151d80cffc67"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": "27951184"
+            "value": "27629261"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": "6423317757:AAHqGl9hHDDrqDlzKXTO1h9Nhssl9b6zirM"
+            "value": "6688216505:AAF263EdPMtScjb-u9hGKv-_UvkwVRVFk94"
         },
         "SESSION": {
             "description": "Pyrogram string session.",
-            "value": "BQC3A7ADmcp7uOc38wgFWiOvIaId8zZok8oOaOORjHlTJFoIqrSoMDZBtfEYVFVlZMo1vrl9_qtVTSFUwUSxFmXIRV0aBaIBcs9llMBv7gmdAmMz9-rYF_nJ27h5vqnSEr7Z1pcoL6Z6Cn1L3zx2TL4mE-BAxdo84BNxCS2xz0EgYHpJxJmiqPS2b5NSvpUd4f7QSslbiPQwvWnXvJpFxgQi1AuNuEZ3g95eQRkcegEzxvwWhYsV_u00yaj7fFMwrXkggciUm0z9zmCSEY8chHAmUK5HSZLSaHp_YwIiUqjyQm_7KpSlJwViaxPqJwtApDJtEmuVKJZ2-tcQvTxcWiC0UnDjsgA"
+            "value": "BQCTxSCIfpGdrzli4R8w22IJC1Mtg5ZjTDIaXW4H1PH3gp_fMlRQOQIQdJE0IHqs0_I9MEgThaqsAKrp7CaKRz-Mu-SSHZl79taNRxeyWHDpRHWktfLjdAy-pVAUlcMvZZbU06_ka-EwwAK4U2RJbLLW42oRI64s_z8eS8HawlscG3PfZHziQuPp0AKwSgFXd6MYjLrFHUyGslhPJo9bUB5xJGP4QaId2ARySmn-ec72ICtAoBGJs42KTMVKgaDwYYkXKphRAaNWcYNg6Ht62TKMoHsXErCB33R9jSH9fa9_iY3BPSm5fVNzvhUB2nt-9w3AhCgn99kzyRqOcmKN01BzAAAAASspGAkA"
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
-            "value": "1383130034"
+            "value": "5019080713"
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
