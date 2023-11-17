@@ -9,7 +9,7 @@
     ],
     "repository": "https://github.com/vasusen-code/SaveRestrictedContentBot",
     "website": "",
-    "success_url": "https://t.me/RR_BOTS_UPDATES",
+    "success_url": "https://t.me/RR_BOTS_up",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
@@ -21,11 +21,11 @@
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": "6634370471:AAGXdSHprq6AiskTMD15mogfqpLuSLCWmAk"
+            "value": "6835367827:AAG-haDsfr2Sa2jP15z3pwkmteiPxITpTgg"
         },
         "SESSION": {
             "description": "Pyrogram string session.",
-            "value": "BQGlls0AJw2n9tstu1EktnvORW1rGqeruujqacSCWKh6WfOK2w5gGUsZPx8U1-jvxnuQflNVqIMSkKxRuQXeax8es7qkFx4LUXWSsa3RxvFhvZ40ni9rdKVrtJCIsErirS9Y4wqatah8x8i8q_TxlH9lKiyu9rc9Y_Yxq6iQowIQTGJbmzZEZRpRpzFQfkyfcNW3kVK3DI9QJmCJs-yyHlISRSA6dWURhCciBNA9T1drDhQCMzPUbjfuDdU3PFQvpyUoCoKQfZG6KqS6UdoezT8-y0JoLhQLq8N-ReHJpRs5TabW7nxnKTdq9n2EgR7DYdHeYifWN7C8H0T63bsCD5tUnOKfvAAAAAErKRgJAA"
+            "value": "BQGlls0ATiZYy_1ZpMqzowk4KrviuJ5wZWNZOGop622fQqUiEgPnPXtHxweXrNB5w_kdIvD26pD-QByRsSEq4rop28HCcmI8b8wUp-iRAnTB7Zk4EEMKJ51bzoJ1Aq4eJVwaLQCPnnoKkzPFeAxTaPUuxuQLABqFllwtO1XooI2Ua_ROmJWxBZb67sBG7gK-xPRF18_f5U7nensoK9C7L6I-Rudbzop-z8xOjglGdaldm1VBIYKQ6Kre0jV3aePFvgYgwWKgnHTjPnjHBOQy4llYMwJCWoi3zlVUMBekjWxJdNKVlfxr75tl6MVqc9iJaaTFvF6jegCUgMr16UnKxALuc84AeAAAAAErKRgJAA"
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
@@ -33,7 +33,7 @@
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
-            "value": "RR_BOTS_UPDATES"
+            "value": "RR_BOTS_up"
         }
     },
     "buildpacks": [
